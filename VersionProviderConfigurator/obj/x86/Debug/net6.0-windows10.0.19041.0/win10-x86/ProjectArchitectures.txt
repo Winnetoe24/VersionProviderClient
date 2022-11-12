@@ -1,0 +1,1 @@
+C:\Users\alexa\source\repos\VersionProviderConfigurator\VersionProviderConfigurator\VersionProviderConfigurator.csproj;x86

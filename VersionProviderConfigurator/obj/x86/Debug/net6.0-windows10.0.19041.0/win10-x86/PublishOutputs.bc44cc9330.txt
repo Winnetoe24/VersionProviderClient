@@ -1,0 +1,4 @@
+C:\Users\alexa\source\repos\VersionProviderConfigurator\VersionProviderConfigurator\bin\win10-x86\publish\VersionProviderConfigurator.pdb
+C:\Users\alexa\source\repos\VersionProviderConfigurator\VersionProviderConfigurator\bin\win10-x86\publish\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\alexa\source\repos\VersionProviderConfigurator\VersionProviderConfigurator\bin\win10-x86\publish\resources.pri
+C:\Users\alexa\source\repos\VersionProviderConfigurator\VersionProviderConfigurator\bin\win10-x86\publish\VersionProviderConfigurator.exe
